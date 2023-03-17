@@ -1,0 +1,27 @@
+[package]
+name = "ReallyBadAsteroids"
+version = "0.3.1"
+authors = ["Taylor Aishman <AishmanTD@hendrix.edu>"]
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+bootloader = "0.9.8"
+volatile = "0.4.6"
+spin = "0.9.5"
+x86_64 = "0.14.2"
+uart_16550 = "0.2.0"
+pic8259 = "0.10.1"
+pc-keyboard = "0.5.1"
+pluggable_interrupt_os = "0.4"
+bare_metal_modulo = "1"
+rand = { version = "0.8.5", features = ["small_rng"], default-features = false }
+
+[dependencies.num]
+version = "0.4.0"
+default-features = false
+
+[dependencies.crossbeam]
+version = "0.8"
+default-features = false

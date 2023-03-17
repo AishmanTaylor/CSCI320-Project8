@@ -1,0 +1,12 @@
+/Users/tayloraishman/CSCI320-OperatingSystems/CSCI320-Project8/shell/target/debug/deps/spin-bb25893ef37fb8f8.rmeta: /Users/tayloraishman/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.6/src/lib.rs /Users/tayloraishman/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.6/src/barrier.rs /Users/tayloraishman/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.6/src/lazy.rs /Users/tayloraishman/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.6/src/mutex.rs /Users/tayloraishman/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.6/src/mutex/spin.rs /Users/tayloraishman/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.6/src/once.rs /Users/tayloraishman/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.6/src/relax.rs /Users/tayloraishman/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.6/src/rwlock.rs
+
+/Users/tayloraishman/CSCI320-OperatingSystems/CSCI320-Project8/shell/target/debug/deps/spin-bb25893ef37fb8f8.d: /Users/tayloraishman/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.6/src/lib.rs /Users/tayloraishman/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.6/src/barrier.rs /Users/tayloraishman/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.6/src/lazy.rs /Users/tayloraishman/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.6/src/mutex.rs /Users/tayloraishman/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.6/src/mutex/spin.rs /Users/tayloraishman/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.6/src/once.rs /Users/tayloraishman/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.6/src/relax.rs /Users/tayloraishman/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.6/src/rwlock.rs
+
+/Users/tayloraishman/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.6/src/lib.rs:
+/Users/tayloraishman/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.6/src/barrier.rs:
+/Users/tayloraishman/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.6/src/lazy.rs:
+/Users/tayloraishman/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.6/src/mutex.rs:
+/Users/tayloraishman/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.6/src/mutex/spin.rs:
+/Users/tayloraishman/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.6/src/once.rs:
+/Users/tayloraishman/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.6/src/relax.rs:
+/Users/tayloraishman/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.6/src/rwlock.rs:
